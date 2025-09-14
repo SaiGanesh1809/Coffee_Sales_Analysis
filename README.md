@@ -56,7 +56,7 @@ To use this Power BI dashboard, you need the following:
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/coffee-shop-sales-dashboard.git
+   git clone https://github.com/SaiGanesh1809/Coffee_Sales_Analysis.git
    cd coffee-shop-sales-dashboard
    ```
 
@@ -107,5 +107,3 @@ The dashboard includes the following components:
 
 https://github.com/user-attachments/assets/82ddf263-4026-4875-b754-b7196c77e3f6
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
