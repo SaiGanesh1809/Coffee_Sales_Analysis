@@ -57,7 +57,7 @@ To use this Power BI dashboard, you need the following:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/SaiGanesh1809/Coffee_Sales_Analysis.git
-   cd coffee-shop-sales-dashboard
+   cd Coffee_Sales_Analysis
    ```
 
 2. **Open the Power BI File**:
